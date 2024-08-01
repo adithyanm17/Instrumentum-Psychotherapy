@@ -38,9 +38,9 @@ Habit Interference
 Combined Usage in certain Personality Disorders
 Combined Usage in certain Behavioral Disorders
 
-##References
-Linjo C. J., Ph.D. (2024) *My Studies on Psychological Instruments: Instrumentum Psychotherapy*
-Linjo, C. J., Ph.D. (2024). *Instrumentum Psychotherapy: A Groundbreaking Approach in Psychology*. Retrieved July 20, 2024, from Instrumentum Psychotherapy
+## References
+Linjo C. J., Ph.D. (2024) My Studies on Psychological Instruments: Instrumentum Psychotherapy
+Linjo, C. J., Ph.D. (2024). Instrumentum Psychotherapy: A Groundbreaking Approach in Psychology. Retrieved July 20, 2024, from Instrumentum Psychotherapy
 
 ## Contact
 
