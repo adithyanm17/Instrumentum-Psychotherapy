@@ -26,17 +26,7 @@ Instruments based on principles like sensitization, distraction, depth perceptio
 
 Instrumentum Psychotherapy is practiced alongside verbal psychotherapeutic methods. The published book details the application of these instruments in treating behavioral disorders. Instruments used include:
 
-Dexterity Apparatus
-Mirror Tracing
-Stroop
-Reaction Time Apparatus
-Hand Steadiness Test
-Two Point Threshold
-Divided Attention
-Maze Learning
-Habit Interference
-Combined Usage in certain Personality Disorders
-Combined Usage in certain Behavioral Disorders
+Dexterity Apparatus, Mirror Tracing, Stroop, Reaction Time Apparatus, Hand Steadiness Test, Two Point Threshold, Divided Attention, Maze Learning, Habit Interference, Combined Usage in certain Personality Disorders, Combined Usage in certain Behavioral Disorders
 
 ## References
 Linjo C. J., Ph.D. (2024) My Studies on Psychological Instruments: Instrumentum Psychotherapy
