@@ -1,0 +1,89 @@
+body {
+    font-family: 'Helvetica Neue', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+    color: #333;
+    transition: background 0.3s ease, color 0.3s ease;
+    text-align: justify;
+}
+
+header {
+    background: #35424a;
+    color: #ffffff;
+    padding: 1em 0;
+    text-align: center;
+    transition: background 0.3s ease, color 0.3s ease;
+    border-radius: 10px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+    transition: font-size 0.3s ease;
+}
+
+nav ul {
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    transition: padding 0.3s ease;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+    transition: margin 0.3s ease;
+}
+
+nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.2em;
+    transition: color 0.3s ease, font-size 0.3s ease;
+}
+
+section {
+    padding: 1em;
+    margin: 1em 0;
+    transition: padding 0.9s ease, margin 0.9s ease;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 25px;
+}
+
+section h2 {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+    transition: font-size 0.3s ease, margin-bottom 0.3s ease;
+}
+
+footer {
+    background: #35424a;
+    color: #ffffff;
+    text-align: center;
+    padding: 1em 0;
+    margin-top: 1em;
+    transition: background 0.9s ease, color 0.9s ease, padding 0.9s ease, margin-top 0.9s ease;
+    border-radius: 25px;
+}
+
+a {
+    color: #35424a;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Smooth scrolling */
+html {
+    scroll-behavior: smooth;
+    transition: scroll-behavior 0.3s
+}
+.tab {
+    text-indent: 2em; /* Adjust the value as needed */
+}
